@@ -9,8 +9,12 @@
     display: flex; 
     align-items: center;
     padding: 24px 0;
-    justify-content: right;
+}
 
-.cabeçalho-logotipo {
-    width: 120px;
+.linhas {
+    display: flex; 
+    justify-content: right;
+    align-items: center;
+    padding: 24px 0;
+    
 }
