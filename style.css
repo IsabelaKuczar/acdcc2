@@ -11,14 +11,13 @@
     padding: 24px 0;
 }
 
-
-.ACDC {
-    background-color: #A40101;
+.ACDC2 {
+    background-color: (#a40104);
+    color: #ffffff;
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    padding:  50px 50px 20px 90px;
+    align-items: below;
+    padding: 24px 0;
     
 }
-
 
