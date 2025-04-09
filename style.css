@@ -11,10 +11,7 @@
     padding: 24px 0;
 }
 
-.linhas {
-    display: flex; 
-    justify-content: left;
-    
-    padding: 24px 0;
-    
+.cabeçalho-lista-item1 {
+    display: inline-block;
+    margin: 0 16px;
 }
