@@ -6,8 +6,7 @@
 
 .cabeçalho {
     background-color: #A40101;
-    display: flex;
-    
+    display: flex; 
     align-items: center;
     padding: 24px 0;
 }
