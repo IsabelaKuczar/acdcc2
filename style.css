@@ -11,7 +11,12 @@
     padding: 24px 0;
 }
 
-.cabeçalho-lista-item1 {
-    display: inline-block;
-    margin: 0 16px;
+.ACDC {
+    background-image: linear-gradient(#A40101, #000000);
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: below;
+    padding: 24px 0;
+    
 }
