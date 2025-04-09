@@ -21,12 +21,4 @@
     
 }
 
-.ACDC {
-    background-image: linear-gradient(#A40101, #000000);
-    color: #ffffff;
-    display: flex;
-    justify-content: space-around;
-    align-items: below;
-    padding: 24px 0;
-    
-}
+
